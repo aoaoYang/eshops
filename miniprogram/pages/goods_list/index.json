@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "searchInput":"../../components/searchInput/searchInput",
+    "Tabs":"../../components/Tabs/Tabs"
+  },
+  "navigationBarTitleText": "eshops商品列表",
+  "enablePullDownRefresh":true,
+  "backgroundTextStyle":"dark"
+}

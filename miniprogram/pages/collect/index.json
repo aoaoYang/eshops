@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "Tabs":"../../components/Tabs/Tabs"
+  },
+  "navigationBarTitleText": "eshops收藏页面"
+}
