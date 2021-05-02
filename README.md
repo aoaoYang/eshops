@@ -11,6 +11,7 @@
 - [云开发文档](https://developers.weixin.qq.com/miniprogram/dev/wxcloud/basis/getting-started.html)
 
 ### 项目涉及知识点：
+
 1.下滑刷新
 2.上滑加载下一页
 3.点击商品进入详细页面 -收藏功能
@@ -27,6 +28,7 @@
 6.个人中心  收藏商品  订单页面
 
 ### 技术选型：
+
 采用微信原框架：MINA
 小程序第三方框架
 1.腾讯 wepy 类似vue  2.美团 mpvue  类似vue 3.京东 taro 类似React
